@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-mentoria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
